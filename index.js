@@ -22,6 +22,6 @@ inquirer
     if (error.isTtyError) {
       console.log(error);
     } else {
-        console.log(error);
+        console.log("no Errors");
     }
   });
